@@ -1,6 +1,6 @@
 # 7 Solutions challenge
 
-This is the solution for the 7solutions challenge. it contains 2 challenge and each will be in the seperate directory
+This is the solution for the 7solutions challenge. it contains 2 challenges and each will be in the separate directory
 
 - **Auto Delete Todo List**
 - **Create data from API** (Optional)
@@ -11,10 +11,9 @@ This is the solution for the 7solutions challenge. it contains 2 challenge and e
 [Demo Link](https://7solutions-challenge.vercel.app/)
 
 ### Getting Started
+To run the project locally:
 
-To run project locally:
-
-1. Navigate to project directory `cd 1st-challenge`
+1. Navigate to the project directory `cd 1st-challenge`
 2. run `npm install`
 3. run `npm run dev` to start the server
 
@@ -26,8 +25,6 @@ To run project locally:
 ## Create data from API (Optional)
 
 ### Getting Started
-This should be able to view via the link but if you want to checkout the repo and start the project
-
 1. `cd 2nd-challenge`
 2. run `npm install`
 3. create `.env` file and copy the content from `.env.example`
