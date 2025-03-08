@@ -8,7 +8,7 @@ This is the solution for the 7solutions challenge. it contains 2 challenge and e
 ## Auto Delete Todo List
 
 ### Demo
-[Demo Link](https://auto-delete-todo-list.vercel.app/)
+[Demo Link](https://7solutions-challenge.vercel.app/)
 
 ### Getting Started
 
