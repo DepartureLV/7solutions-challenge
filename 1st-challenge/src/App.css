@@ -1,0 +1,38 @@
+.todo-list {
+  width: 100dvw;
+  height: 100dvh;
+  display: flex;
+  justify-content: center;
+  gap: 1.5em;
+  padding: 2em;
+  box-sizing: border-box;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  padding: 1em;
+  width: 20em;
+  height: 100%;
+  overflow-y: scroll;
+  box-sizing: border-box;
+}
+
+header {
+  font-size: 1.5em;
+  background-color: gray;
+  text-align: center;
+}
+
+.todo {
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+  width: 20em;
+  height: 100%;
+}
+
+.border {
+  border: 1px solid white;
+}
